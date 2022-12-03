@@ -10,7 +10,7 @@ export const ContactBtn = styled.button`
   cursor: pointer;
   width: fit-content;
   padding: 4px 8px;
-  background-color: #fff;
+  background-color: rgb(245 176 143);
   font-size: 12px;
   border: 1px solid grey;
   border-radius: 4px;
